@@ -3,7 +3,7 @@
 
 ## Overview
 
-The purpose of this analysis was to present a business proposal to help predict if a bike-sharing company idea, similar to the bike-sharing program in New York City(NYC), could work in Des Moines, IA. To conduct the analysis and create effective visualizations, a CSV titled "Citi Bike Data" was imported into Tableau. 
+The purpose of this analysis was to present a business proposal to help predict if a bike-sharing company idea, similar to the bike-sharing program in New York City(NYC), could work in Des Moines, IA. To conduct the analysis and create effective visualizations, a CSV titled "201908-citibike-tripdata" was imported into Tableau. 
 
 Once the data was imported, a few modifications were made so that the data was represented accurately when viewed. For example, the "Tripduration" column was changed from an integer to datetime datatype and the "Gender" column was converted from integer to string (Male, Female, Unknown).
 
@@ -49,7 +49,7 @@ The analysis showed the following:
 
 ## Summary
 
-According to the data, and the analysis performed, indicates that the bike-sharing business in NYC is very successful. The most active times for riders was at 8am, and 5pm-7pm. The top and ending locations were mainly concentrated in tourist areas, which are also the high-traffic areas. However, only 19% of total riders were short-term customers. The assumption is that the 81% of subscribers were residents of NYC. 
+According to the data, and the analysis performed, the findings indicate that the bike-sharing business in NYC is very successful. The most active times for riders was at 8am, and 5pm-7pm. The top and ending locations were mainly concentrated in tourist areas, which are also the high-traffic areas. However, only 19% of total riders were short-term customers. The assumption is that the 81% of subscribers were residents of NYC. 
 
 It is interesting to note that the majority of riders were men. Also, females tend to ride the most during the early hours of the day, while male riders rode more in the evening hours. The "Checkout Times for Users" chart showed that a whopping 146,752 riders rode for only 5 minutes. This may indicate that these riders were using the bikes to commute to short distance places in order to avoid all forms of public transportation. Further, Thursdays, between 5pm to 7pm, seemed to be the most popular day of the week to take a bike ride. 
 
