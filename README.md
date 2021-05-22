@@ -27,7 +27,7 @@ The analysis showed the following:
 ![trips.PNG](PNGs/trips.png)
 
 ### There were 1,900,359 subscribers and 443,865 short-term customers
-![cust_type.PNG](PNGs/cust_type.png)
+![customer_type.PNG](PNGs/customer_type.png)
 
 ### August peak hours were between 5pm to 7pm
 ![Aug_peak.PNG](PNGs/Aug_peak.png)
