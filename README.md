@@ -7,7 +7,7 @@ The purpose of this analysis was to present a business proposal to help predict 
 
 Once the data was imported, a few modifications were made so that the data was represented accurately when viewed. For example, the "Tripduration" column was changed from an integer to datetime datatype and the "Gender" column was converted from integer to string (Male, Female, Unknown).
 
-The primary goal when using Tableau is to answer questions using data. The data from the month of August was chosen for the analysis due to the high- traffic activity during the summer months. Using the data from the month August as a starting point, the following questions were asked during the analysis process:
+The primary goal when using Tableau is to answer questions using data. The data from the month of August was chosen for the analysis due to the high-traffic activity during the summer months. Using the data from the month August as a starting point, the following questions were asked during the analysis process:
 
 - How many rides could be expected in Des Moines
 - What was the proportion of short-term customers to annual subscribers
