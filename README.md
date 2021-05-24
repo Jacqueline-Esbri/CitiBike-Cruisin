@@ -70,6 +70,4 @@ Two additional visualizations suggested for this analysis that may further convi
 ![5min.PNG](PNGs/5min.png)
 
 
-[link to dashboard](https://public.tableau.com/profile/jacqueline.esbri#!/vizhome/Book2_16215297860780/NYCStory?publish=yes "link to dashboard")
-
 [Link to Dashboard](https://public.tableau.com/profile/jacqueline.esbri#!/vizhome/Book2_16215297860780/NYCStory?publish=yes "Link to Dashboard")
