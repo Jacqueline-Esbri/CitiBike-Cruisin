@@ -70,7 +70,7 @@ Two additional visualizations suggested for this analysis that may further convi
 ![5min.PNG](PNGs/5min.png)
 
 
-### Link to My Tableau (click on link below)
+### Link to My Tableau (click on links below)
 
 [Link to Dashboard](https://public.tableau.com/profile/jacqueline.esbri#!/vizhome/Book2_16215297860780/CitiBike "Link to Dashboard")
 
